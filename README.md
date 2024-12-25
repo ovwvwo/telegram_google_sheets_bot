@@ -22,7 +22,7 @@ Telegram бот для автоматизации работы с Google Sheets.
 ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/telegram-sheets-bot
+git clone https://github.com/...
 
 # Установка зависимостей
 pip install -r requirements.txt
